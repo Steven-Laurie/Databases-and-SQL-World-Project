@@ -16,7 +16,7 @@ The main objectives of this project are to:
 - Demonstrate practical tasks in MySQL Workbench, including creating a database, writing and executing SQL queries, debugging SQL queries, creating an EER diagram, understanding relationships, and identifying primary and foreign keys.
 
 ## Data Source
-The dataset used for practical tasks is titled "World," which contains information on different countries, cities within them, and the languages spoken there.
+The dataset used for practical tasks is titled "World", which contains information on different countries, cities within them, and the languages spoken there.
 
 - **World Dataset:** A file named "World" provides comprehensive information on countries, cities, and languages.
 
