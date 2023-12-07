@@ -33,7 +33,7 @@ The dataset used for practical tasks is titled "World", which contains informati
    - Completion of various tasks within MySQL Workbench using SQL programming language.
 
 2. **SQL Folder:**
-   Inside this folder lies the SQL script i used to complete the tasks set in my assignment based around the "World" dataset 
+   - Inside this folder lies the SQL script i used to complete the tasks set in my assignment based around the "World" dataset 
    
 3. **Dataset Folder:**
    - **World.csv:** CSV file containing information on countries, cities, and languages.
