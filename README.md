@@ -1,4 +1,4 @@
-# Project Title: Understanding Relational Databases and MySQL Development
+# Understanding Relational Databases and MySQL Development
 
 ## Overview
 This project encompasses theoretical understanding and practical application of relational databases using MySQL Workbench and the SQL programming language. The theoretical aspect covers various types of relationships in relational databases and the importance of normalization in database development. The practical aspect includes tasks performed in MySQL Workbench, highlighting database creation, SQL query writing and execution, query debugging, EER (Enhanced Entity-Relationship) diagram creation, understanding relationships, and identifying primary and foreign keys.
