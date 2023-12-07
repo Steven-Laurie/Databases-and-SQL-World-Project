@@ -23,7 +23,7 @@ The dataset used for practical tasks is titled "World," which contains informati
 ## Tools Used
 - **MySQL Workbench:** Utilized for database development, SQL query writing and execution, debugging, and EER diagram creation.
 - **SQL Programming Language:** Implemented for database manipulation, query writing, and execution.
-- **Miscrofot Word:** Used to document the completion of goals set in my assignment
+- **Microsoft Word:** Used to document the completion of goals set in my assignment
 
 ## Repository Contents
 1. **Assignment Folder:**
